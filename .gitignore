@@ -1,0 +1,25 @@
+Unreal Engine generated folders (all assignments)
+
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+macOS system files
+
+.DS_Store
+.AppleDouble
+
+IDE files
+
+.vs/
+.idea/
+.vscode/
+*.sln
+*.xcodeproj/
+*.xcworkspace/
+
+Temporary files and logs
+
+*.log
+*.tmp
